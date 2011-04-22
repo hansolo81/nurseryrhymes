@@ -1,0 +1,17 @@
+html, body {
+	background-color: #1E1E26;
+}
+
+button{
+	position: absolute;
+	#width: 70%;
+	left: 15%;
+	padding: 5px;
+	border-width: 3px;
+	color: #BFBFBF;
+	#font-size: 34px;
+	font-weight: 800;
+	border-color: #9C9C9C;
+	background-image: -webkit-gradient(linear, left top left bottom, from(#BF5A34), to(#463630));
+	-webkit-border-radius: 10px;
+}
